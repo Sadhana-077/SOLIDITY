@@ -10,4 +10,8 @@ contract modifierr{
         _;
     }
 
+    function add() public onlyOwner {
+
+    }
+
 }
